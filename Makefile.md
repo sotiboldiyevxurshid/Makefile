@@ -7,9 +7,6 @@
 
 ---
 
----
-
-
 ## 2. Keyin Makefile orqali ishga tushiramiz va quyida gi buyruqlarni yozamiz
 
 <img src="./img/2.png">
