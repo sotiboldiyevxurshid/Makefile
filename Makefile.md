@@ -4,6 +4,12 @@
 
 <img src="./img/1.png">
 
+
+---
+
+---
+
+
 ## 2. Keyin Makefile orqali ishga tushiramiz va quyida gi buyruqlarni yozamiz
 
 <img src="./img/2.png">
@@ -33,7 +39,7 @@
 
 
 
-# google-chrome qidiruvga kirib http://localhost:8080/ yozsangiz loyiha ko'rinadi : Faqat REact js Pojectda ishlaydi :  Menda Projectim
+### ```google-chrome qidiruvga kirib``` http://localhost:8080/ ```yozsangiz loyiha ko'rinadi : Faqat React js Pojectda ishlaydi :  Menda Projectim```
 
 
 <img src="./img/7.png">
@@ -60,7 +66,7 @@
 
 <img src="./img/11.png">
 
-# google-chrome qidiruvga kirib http://localhost:8080/ yozsangiz loyiha o'chadi
+### ```google-chrome qidiruvga kirib``` http://localhost:8080/ ```yozsangiz loyiha o'chadi```
 
 <img src="./img/12.png">
 
@@ -74,7 +80,7 @@
 <img src="./img/14.png">
 
 
-# google-chrome qidiruvga kirib http://localhost:8080/ yozsangiz hech narsa o'zgarmaydi
+### ```google-chrome qidiruvga kirib``` http://localhost:8080/ ```yozsangiz hech narsa o'zgarmaydi```
 
 
 6. make docker-stop - Terminalga yozganda  Dockerfileda avval ```docker-remove``` keyin ```docker-delete``` ishga tushiradi
@@ -83,6 +89,6 @@
 
 ## terminalga ``make docker-stop`` yozamiz
 
-# google-chrome qidiruvga kirib http://localhost:8080/ yozsangiz loyiha to'xtaydi va  o'chadi
+### ```google-chrome qidiruvga kirib``` http://localhost:8080/ ```yozsangiz loyiha to'xtaydi va  o'chadi```
 
 <img src="./img/12.png">
