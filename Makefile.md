@@ -89,3 +89,4 @@
 ### ```google-chrome qidiruvga kirib``` http://localhost:8080/ ```yozsangiz loyiha to'xtaydi va  o'chadi```
 
 <img src="./img/12.png">
+

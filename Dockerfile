@@ -1,5 +1,4 @@
 FROM node:18-alpine AS build
-
 WORKDIR /app
 # Copy package.json and package-lock.json (or yarn.lock) files
 COPY package*.json ./
