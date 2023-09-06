@@ -11,7 +11,7 @@
 
 <img src="./img/2.png">
 
-### Makefile tushuntirin o'taman
+## Makefile tushuntirin o'taman
 
 1.make docker-build - Terminalga yozganimizda Dockerfile image yaratadi va tag nomini beryapti masalan  : ```crm-dev ```  
 
